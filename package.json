@@ -1,0 +1,41 @@
+{
+  "name": "itoolsverifier",
+  "version": "0.0.1",
+  "description": "itools verification",
+  "keywords": [
+    "itools",
+    "verifier",
+    "verify",
+    "verify in itools"
+  ],
+  "homepage": "https://github.com/jiangzhuo/itoolsverifier",
+  "author": {
+    "name": "jiangzhuo",
+    "email": "glmmmmmm@163.com",
+    "url": "http://aivirgin.net"
+  },
+  "main": "./lib/itoolsverifier",
+  "dependencies": {
+    "ursa": "*"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangzhuo/itoolsverifier.git"
+  },
+  "engines": {
+    "node": ">= 0.8.6"
+  },
+  "readme": "這人很懶，沒空寫",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jiangzhuo/itoolsverifier/issues"
+  },
+  "_id": "itoolsverifier@0.0.1",
+  "dist": {
+    "shasum": "f5735ac0585a4cca1c95f20735ea46888577fff6"
+  },
+  "_from": "/Users/jiangzhuo/Desktop/itoolsverifier/"
+}
